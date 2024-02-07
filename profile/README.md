@@ -8,3 +8,6 @@
 # 群聊
  - Discord: https://discord.gg/8GKSUNw9
  - QQ: 368632360
+
+# BStats
+![bStats](https://bstats.org/signatures/server-implementation/Luminol.svg "bStats")
