@@ -6,8 +6,9 @@
  - [LightingLuminol(Luminol的dirty版())](https://github.com/LuminolMC/LightingLuminol)
 
 # 群聊
+ - QQ频道:[Click This](https://pd.qq.com/s/eq9krf9j)
  - Discord: https://discord.gg/8GKSUNw9
- - QQ: 368632360
+ - QQ群: 368632360
 
 # BStats
 ![bStats](https://bstats.org/signatures/server-implementation/Luminol.svg "bStats")
