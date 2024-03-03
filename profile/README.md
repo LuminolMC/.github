@@ -8,6 +8,7 @@
 # 群聊
  - QQ频道:[Click This](https://pd.qq.com/s/eq9krf9j)
  - Discord: https://discord.gg/8GKSUNw9
+ - Telegram: [Click This](https://t.me/LuminolMC)
  - QQ群: 368632360
 
 # BStats
