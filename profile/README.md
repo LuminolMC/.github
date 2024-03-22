@@ -1,15 +1,14 @@
 # LuminolMC
 一个折腾Folia和MC的组织
 
-# 项目(活跃的)
+# 主要项目
  - [Luminol](https://github.com/LuminolMC/Luminol)
- - [LightingLuminol(Luminol的dirty版())](https://github.com/LuminolMC/LightingLuminol)
+ - [LightingLuminol](https://github.com/LuminolMC/LightingLuminol) [修复对BukkitAPI的破坏，最大程度保证旧插件兼容性]
 
 # 群聊
- - QQ频道:[Click This](https://pd.qq.com/s/eq9krf9j)
- - Discord: https://discord.gg/8GKSUNw9
+ - **QQ群: 368632360**
+ - QQ频道: [Click This](https://pd.qq.com/s/eq9krf9j)
  - Telegram: [Click This](https://t.me/LuminolMC)
- - QQ群: 368632360
 
 # BStats
 ![bStats](https://bstats.org/signatures/server-implementation/Luminol.svg "bStats")
