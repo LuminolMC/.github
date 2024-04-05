@@ -13,5 +13,8 @@
  - Telegram: [点击加入](https://t.me/LuminolMC)
  - Discord: [点击加入](https://discord.gg/5hgtU72w33)
 
+## 攒出我们
+ - 爱发电: [Afdian/LuminolMC](https://afdian.net/a/Luminol)
+
 ## BStats
 ![bStats](https://bstats.org/signatures/server-implementation/Luminol.svg "bStats")
