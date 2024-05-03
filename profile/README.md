@@ -11,7 +11,7 @@
  - **QQ群: [368632360](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=MfosKhcDd8Fdxn1MREuZ8Krbf9T6jiBC&authKey=3cm6qdHohON3gHnuD63FK4k07fIbrWnY4hdyq8OmELsfjMVP1kbFTJY9mRyM2Rkj&noverify=0&group_code=368632360)**
  - QQ频道: [点击加入](https://pd.qq.com/s/eq9krf9j)
  - Telegram: [点击加入](https://t.me/LuminolMC)
- - Discord: [点击加入](https://discord.gg/5hgtU72w33)
+ - Discord: [点击加入](https://discord.gg/Qd7m3V6eDx)
 
 ## 赞助我们
  - 爱发电: [Afdian/LuminolMC](https://afdian.net/a/Luminol)
