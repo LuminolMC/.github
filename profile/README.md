@@ -14,7 +14,7 @@
  - Discord: [点击加入](https://discord.gg/Qd7m3V6eDx)
 
 ## 赞助我们
- - 爱发电: [Afdian/LuminolMC](https://afdian.net/a/Luminol)
+ - 爱发电: [Afdian/LuminolMC](https://afdian.com/a/Luminol)
 
 ## BStats
 ![bStats](https://bstats.org/signatures/server-implementation/Luminol.svg "bStats")
