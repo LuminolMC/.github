@@ -18,3 +18,4 @@
 
 ## BStats
 ![bStats](https://bstats.org/signatures/server-implementation/Luminol.svg "bStats")
+![bStats](https://bstats.org/signatures/server-implementation/Lophine.svg "bStats")
